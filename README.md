@@ -4,4 +4,6 @@ Final TP Android
 
 Stay tuned.
 
-Brought to you by JunkOS.
+Brought to you by JunkOS with  :heart:.
+
+Powered by [AndroidAnnotations](https://github.com/excilys/androidannotations).
